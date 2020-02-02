@@ -1,0 +1,9 @@
+version: "3.0"
+services:
+  site:
+    build: .
+    volumes:
+    - ./src:/home/root/
+    ports: 
+      - "8881:8000"
+    command: python /home/root/feiras/manage.py runserver 0.0.0.0:8000

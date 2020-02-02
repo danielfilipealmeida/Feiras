@@ -1,0 +1,26 @@
+[
+    {
+        "model": "feirasApp.Local",
+        "pk": 1,
+        "fields": {
+            "local": "Estremoz",
+            "coordenadas": "38.846835,-7.7663927"
+        }
+    },
+    {
+        "model": "feirasApp.Local",
+        "pk": 2,
+        "fields": {
+            "local": "Lisboa",
+            "coordenadas": "38.7437396,-9.2302433"
+        }
+    },
+    {
+        "model": "feirasApp.Local",
+        "pk": 3,
+        "fields": {
+            "local": "Porto",
+            "coordenadas": "41.1622023,-8.6569731"
+        }
+    }
+]
