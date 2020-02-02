@@ -1,0 +1,67 @@
+[
+    {
+        "model": "feirasApp.Feira",
+        "pk": 1,
+        "fields": {
+            "nome": "Feira de antiguidades e velharias de Estremoz",
+            "local": 1,
+            "semana": 0,
+            "dia": 7,
+            "inicio": "8:00",
+            "fim": "13:00",
+            "morada": "Centro da cidade"
+        }
+    },
+    {
+        "model": "feirasApp.Feira",
+        "pk": 2,
+        "fields": {
+            "nome": "Feira da ladra",
+            "local": 2,
+            "semana": 0,
+            "dia": 7,
+            "inicio": "9:00",
+            "fim": "18:00",
+            "morada": "Campo de Santa Clara"
+        }
+    },
+    {
+        "model": "feirasApp.Feira",
+        "pk": 3,
+        "fields": {
+            "nome": "Feira de Alfarrabistas e Coleccionistas do Chiado",
+            "local": 2,
+            "semana": 0,
+            "dia": 7,
+            "inicio": "9:00",
+            "fim": "18:00",
+            "morada": "Rua da Anchieta"
+        }
+    },
+    {
+        "model": "feirasApp.Feira",
+        "pk": 4,
+        "fields": {
+            "nome": "Feira da Vandoma",
+            "local": 3,
+            "semana": 0,
+            "dia": 7,
+            "inicio": "8:00",
+            "fim": "13:00",
+            "morada": "Avenida 25 de Abril"
+        }
+    },
+    {
+        "model": "feirasApp.Feira",
+        "pk": 6,
+        "fields": {
+            "nome": "Mercado de Porto Belo",
+            "local": 3,
+            "semana": 0,
+            "dia": 7,
+            "inicio": "11:00",
+            "fim": "17:00",
+            "morada": "Praça de Carlos Alberto"
+        }
+    }
+]
